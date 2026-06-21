@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://example.com
+https://itzik-amar-itum-gagot.zappy5.app
 סובלים מרטיבות, נזילות או עובש? איציק עמר, מומחה איטום גגות בדרום, מביא שקט נפשי עם חומרים מוסמכים ואחריות ארוכת טווח. התקשרו עכשיו לשירות מהיר ואמין!
 
 ### שירותים
-https://example.com/services
+https://itzik-amar-itum-gagot.zappy5.app/services
 מחפשים איטום גגות מקצועי? אנחנו מציעים איטום ירוק, זיפות, תיקון סדקים ועוד עם חומרים מתקדמים וזמינות מיידית באשדוד, אשקלון ובאר שבע. לחצו לגלות את הפתרון המושלם.
 
 ### אמון ושאלות נפוצות
-https://example.com/trust-faq
+https://itzik-amar-itum-gagot.zappy5.app/trust-faq
 ותק, אחריות ושקיפות – כל מה שחשוב לדעת על איטום גגות. קראו שאלות נפוצות ולמדו איך אנחנו מבטיחים לכם בית יבש ובטוח לאורך שנים. כנסו עכשיו לשקט נפשי!
 
 ### צור קשר
-https://example.com/contact
+https://itzik-amar-itum-gagot.zappy5.app/contact
 רטיבות מפריעה לכם לישון? צרו קשר עכשיו עם איציק עמר, מומחה איטום גגות בדרום, וקבלו ייעוץ אישי, הצעת מחיר הוגנת וזמינות מהירה. אנחנו כאן כדי לעזור!
 
 ### תודה שפניתם – איציק עמר איטום גגות
-https://example.com/thank-you
+https://itzik-amar-itum-gagot.zappy5.app/thank-you
 איציק עמר – איטום גגות - תודה שפניתם – איציק עמר איטום גגות
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://itzik-amar-itum-gagot.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://itzik-amar-itum-gagot.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://itzik-amar-itum-gagot.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -49,8 +49,8 @@ Information about WCAG compliance and accessibility features.
 - Phone (tel): tel:0533524865
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://itzik-amar-itum-gagot.zappy5.app/contact
+- Endpoint: https://itzik-amar-itum-gagot.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -90,6 +90,6 @@ Roofing & Waterproofing Contractor
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://itzik-amar-itum-gagot.zappy5.app/sitemap.xml
+- Robots: https://itzik-amar-itum-gagot.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://itzik-amar-itum-gagot.zappy5.app/llms-full.txt
