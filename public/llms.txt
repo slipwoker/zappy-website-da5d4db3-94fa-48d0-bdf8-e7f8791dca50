@@ -1,0 +1,93 @@
+# איציק עמר – איטום גגות — Generative Engine Optimization Map
+
+> Itzik Amar – Roof Waterproofing is an experienced, trustworthy roofing contractor serving the southern region of Israel (Ashdod, Ashkelon, Beer Sheva, Kiryat Gat, Gan Yavne and surroundings). The brand's core message is peace of mind – reassuring homeowners suffering from leaks, moisture, and mold that they can 'sleep soundly' thanks to long-lasting, professionally applied waterproofing solutions. The business emphasizes veteran expertise, personal service, fast availability, certified materials, and long-term warranty. The tone is calm, reliable, and professional – a trustworthy local expert who handles a stressful problem with competence and care.
+
+---
+
+## Pages
+
+### בית
+https://-da5d4db3.zappy5.app
+סובלים מרטיבות, נזילות או עובש? איציק עמר, מומחה איטום גגות בדרום, מביא שקט נפשי עם חומרים מוסמכים ואחריות ארוכת טווח. התקשרו עכשיו לשירות מהיר ואמין!
+
+### שירותים
+https://-da5d4db3.zappy5.app/services
+מחפשים איטום גגות מקצועי? אנחנו מציעים איטום ירוק, זיפות, תיקון סדקים ועוד עם חומרים מתקדמים וזמינות מיידית באשדוד, אשקלון ובאר שבע. לחצו לגלות את הפתרון המושלם.
+
+### אמון ושאלות נפוצות
+https://-da5d4db3.zappy5.app/trust-faq
+ותק, אחריות ושקיפות – כל מה שחשוב לדעת על איטום גגות. קראו שאלות נפוצות ולמדו איך אנחנו מבטיחים לכם בית יבש ובטוח לאורך שנים. כנסו עכשיו לשקט נפשי!
+
+### צור קשר
+https://-da5d4db3.zappy5.app/contact
+רטיבות מפריעה לכם לישון? צרו קשר עכשיו עם איציק עמר, מומחה איטום גגות בדרום, וקבלו ייעוץ אישי, הצעת מחיר הוגנת וזמינות מהירה. אנחנו כאן כדי לעזור!
+
+### תודה שפניתם – איציק עמר איטום גגות
+https://-da5d4db3.zappy5.app/thank-you
+איציק עמר – איטום גגות - תודה שפניתם – איציק עמר איטום גגות
+
+## Legal & Policy
+
+### Privacy Policy
+https://-da5d4db3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-da5d4db3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-da5d4db3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-da5d4db3.zappy5.app/contact
+- Endpoint: https://-da5d4db3.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `phone` (tel)
+  - `email` (email)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About איציק עמר – איטום גגות
+Itzik Amar – Roof Waterproofing is an experienced, trustworthy roofing contractor serving the southern region of Israel (Ashdod, Ashkelon, Beer Sheva, Kiryat Gat, Gan Yavne and surroundings). The brand's core message is peace of mind – reassuring homeowners suffering from leaks, moisture, and mold that they can 'sleep soundly' thanks to long-lasting, professionally applied waterproofing solutions. The business emphasizes veteran expertise, personal service, fast availability, certified materials, and long-term warranty. The tone is calm, reliable, and professional – a trustworthy local expert who handles a stressful problem with competence and care.
+
+## Services/Products
+- איטום גגות ביריעות ביטומניות
+- איטום בהתזה (חומרים אקריליים/פוליאוריטניים)
+- זיפות גגות בזפת חמה
+- סיוד והלבנת גגות
+- בט קל לשיפועים ועבודות מדה מתפלסת
+- איטום מרפסות, מרתפים, חדרים רטובים, חלונות ופתחים
+- איטום גגות מסוגים שונים: בטון, מתכת, רעפים, אסבסט, מרוצפים
+- איטום מתקנים סולאריים/דודי שמש/מזגנים על הגג
+
+## Target Audience
+- בעלי בתים ודירות עם בעיות נזילות, רטיבות ועובש בגגות, בעיקר באזור הדרום
+- בעלי בתים עם בעיות נזילות בדרום
+- מנהלי נכסים להשכרה
+- רוכשי בתים חדשים בדרום
+
+## Industry
+Roofing & Waterproofing Contractor
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-da5d4db3.zappy5.app/sitemap.xml
+- Robots: https://-da5d4db3.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-da5d4db3.zappy5.app/llms-full.txt
