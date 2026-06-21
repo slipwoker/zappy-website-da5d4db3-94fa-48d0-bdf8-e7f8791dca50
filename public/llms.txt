@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-da5d4db3.zappy5.app
+https://example.com
 סובלים מרטיבות, נזילות או עובש? איציק עמר, מומחה איטום גגות בדרום, מביא שקט נפשי עם חומרים מוסמכים ואחריות ארוכת טווח. התקשרו עכשיו לשירות מהיר ואמין!
 
 ### שירותים
-https://-da5d4db3.zappy5.app/services
+https://example.com/services
 מחפשים איטום גגות מקצועי? אנחנו מציעים איטום ירוק, זיפות, תיקון סדקים ועוד עם חומרים מתקדמים וזמינות מיידית באשדוד, אשקלון ובאר שבע. לחצו לגלות את הפתרון המושלם.
 
 ### אמון ושאלות נפוצות
-https://-da5d4db3.zappy5.app/trust-faq
+https://example.com/trust-faq
 ותק, אחריות ושקיפות – כל מה שחשוב לדעת על איטום גגות. קראו שאלות נפוצות ולמדו איך אנחנו מבטיחים לכם בית יבש ובטוח לאורך שנים. כנסו עכשיו לשקט נפשי!
 
 ### צור קשר
-https://-da5d4db3.zappy5.app/contact
+https://example.com/contact
 רטיבות מפריעה לכם לישון? צרו קשר עכשיו עם איציק עמר, מומחה איטום גגות בדרום, וקבלו ייעוץ אישי, הצעת מחיר הוגנת וזמינות מהירה. אנחנו כאן כדי לעזור!
 
 ### תודה שפניתם – איציק עמר איטום גגות
-https://-da5d4db3.zappy5.app/thank-you
+https://example.com/thank-you
 איציק עמר – איטום גגות - תודה שפניתם – איציק עמר איטום גגות
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-da5d4db3.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-da5d4db3.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-da5d4db3.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-da5d4db3.zappy5.app/contact
-- Endpoint: https://-da5d4db3.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -88,6 +88,6 @@ Roofing & Waterproofing Contractor
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-da5d4db3.zappy5.app/sitemap.xml
-- Robots: https://-da5d4db3.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-da5d4db3.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
