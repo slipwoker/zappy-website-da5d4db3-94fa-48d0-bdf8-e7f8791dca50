@@ -44,7 +44,9 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: elkarifitay@gmail.com
+- Phone: 053-352-4865
+- Phone (tel): tel:0533524865
 
 ### Contact form
 - URL: https://example.com/contact
@@ -52,11 +54,11 @@ Information about WCAG compliance and accessibility features.
 - Method: POST
 - Content-Type: application/json
 - Fields:
-  - `name` (text)
-  - `phone` (tel)
+  - `name` (text, required)
+  - `phone` (tel, required)
   - `email` (email)
-  - `message` (textarea)
-  - `privacy_consent` (checkbox)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
 
 ---
 
